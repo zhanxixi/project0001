@@ -4,5 +4,6 @@ public class MainApp {
         System.out.println("demo");
         System.out.println("b1");
         System.out.println("b3");
+        System.out.println("b2");
     }
 }
